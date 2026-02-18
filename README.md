@@ -23,7 +23,8 @@ Python
 - Dynamic Programming
 
 ## Practice Platform
-
+-Problems are sourced and submitted on LeetCode.
+-Solutions are implemented and tested locally using VS Code before submission.
 
 ## Repository Structure
 Each problem contains:
